@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MS.Blog.BLL/MS.Blog.BLL.csproj" />
+  <Project Path="MS.Blog.DAL/MS.Blog.DAL.csproj" />
+  <Project Path="MS.Blog.Domain/MS.Blog.Domain.csproj" />
+  <Project Path="MS.Blog.Shared/MS.Blog.Shared.csproj" />
+  <Project Path="MS.Blog/MS.Blog.csproj" />
+</Solution>
